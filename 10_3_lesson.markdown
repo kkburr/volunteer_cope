@@ -56,6 +56,8 @@
 
   <h3>Images</h3>
   <p>So far, we only have text :( Let's add some images!</p>
+  <p> Take a look at the example below: </p>
+    <img src="anatomy.png" alt="Picture of image tag">
   <p>An image tag is a little bit different than the tags we've looked at so far. It <b>only</b> has an opening tag -- no closing tag! However, there's something else a little special about it. Try typing "img" and then hit the tab key to see what pops up.</p>
 
   ```html
