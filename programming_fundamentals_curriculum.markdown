@@ -1,0 +1,7 @@
+- data types: booleans
+- data types: strings, numbers
+- what are if/else conditionals
+- what are functions
+- data types: arrays
+- what are loops
+- data types: hashes
